@@ -1,0 +1,6 @@
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\TikTakTOk\TikTakTOk\bin\Debug\TikTakTOk.exe.config
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\TikTakTOk\TikTakTOk\obj\Debug\TikTakTOk.csprojResolveAssemblyReference.cache
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\TikTakTOk\TikTakTOk\bin\Debug\TikTakTOk.exe
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\TikTakTOk\TikTakTOk\bin\Debug\TikTakTOk.pdb
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\TikTakTOk\TikTakTOk\obj\Debug\TikTakTOk.exe
+c:\users\egypt_laptop\documents\visual studio 2012\Projects\TikTakTOk\TikTakTOk\obj\Debug\TikTakTOk.pdb
